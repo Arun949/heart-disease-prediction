@@ -206,13 +206,19 @@ CROSS-VALIDATION RESULTS
 ================================================================================
 
 Individual Model OOF ROC-AUC Scores:
-  xgboost     : 0.89123
-  catboost    : 0.89345
-  lightgbm    : 0.88834
-  logistic    : 0.86123
+  xgboost     : 0.95514
+  catboost    : 0.95514
+  lightgbm    : 0.95517
+  logistic    : 0.95302
 
-Weighted Ensemble OOF ROC-AUC: 0.89567
+Weighted Ensemble OOF ROC-AUC: 0.95521
 ================================================================================
+
+================================================================================
+TRAINING COMPLETE!
+================================================================================
+
+Final Ensemble OOF ROC-AUC: 0.95521
 ```
 
 ## 🧪 Testing
